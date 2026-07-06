@@ -103,3 +103,26 @@ Run the notebook.
 ## 📜 License
 
 MIT License
+
+## 📸 Project Output
+
+### Class Distribution
+![Class Distribution](class_distribution.png)
+
+### Pair Plot
+![Pair Plot](pairplot.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Boxplots
+![Boxplots](boxplots.png)
+
+### Violin Plots
+![Violin Plots](violin_plots.png)
+
+### Feature Importance
+![Feature Importance](feature_importances.png)
+
+### Decision Boundary
+![Decision Boundary](decision_boundaries.png)
